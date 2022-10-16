@@ -1,0 +1,21 @@
+a{
+    position: relative;
+    top: 10px;left: 5px;
+    color: snow;
+    background-color: crimson;
+    text-decoration: none;
+    border: 4px dashed black;
+
+}
+
+p {
+    width: 250px;
+}
+
+strong{
+    width: 250px;
+}
+
+body{
+    background-image: linear-gradient(lightgreen, lightyellow);
+}
